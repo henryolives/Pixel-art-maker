@@ -15,7 +15,5 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Link to project repository
-https://github.com/henryolives/project-pixel-art-maker-starter-master/blob/master/designs.js
-https://github.com/henryolives/project-pixel-art-maker-starter-master/blob/master/index.html
-https://github.com/henryolives/project-pixel-art-maker-starter-master/blob/master/styles.css
+## Link to gitHub pages
+https://henryolives.github.io/project-pixel-art-maker-starter-master/
