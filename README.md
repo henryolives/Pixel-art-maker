@@ -1,17 +1,12 @@
-# Pixel Art Maker Project
+#Pixel Art Maker Project
+===============================
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Installation](#installation)
 
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Installation
+* Download the zip copy of the repository.
+* copy the 'Pixel-art-maker' folder to a desired location on your computer
+* double-click on the index file to open the game.
 
