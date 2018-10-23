@@ -7,6 +7,6 @@
 
 ## Installation
 * Download the zip copy of the repository.
-* copy the 'Pixel-art-maker' folder to a desired location on your computer
+* copy the 'pixel-art-maker' folder to a desired location on your computer
 * double-click on the index file to open the game.
 
